@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@200&family=Lobster&family=Nunito:wght@300;400&display=swap");
+
+.project {
+  width: max-content;
+  height: max-content;
+  margin: 50px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+}
+.icon {
+  color: #103239;
+  font-size: 24px;
+  display: block;
+  margin: 5px 0 10px 5px;
+}
+.lab {
+  font-weight: bold;
+  font-size: 20px;
+  color: #2c3942;
+  line-height: 30px;
+}
+.title {
+  font-size: 18px;
+  font-weight: 400;
+  color: #103239;
+  line-height: 30px;
+}
+.btn {
+  font-weight: bold;
+  margin-top: 15px;
+  background-color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 5px;
+  word-spacing: 4px;
+  -webkit-box-shadow: 0px 0px 20px 3px rgba(34, 60, 80, 0.23);
+  -moz-box-shadow: 0px 0px 20px 3px rgba(34, 60, 80, 0.23);
+  box-shadow: 0px 0px 20px 3px rgba(34, 60, 80, 0.23);
+  cursor: pointer;
+}

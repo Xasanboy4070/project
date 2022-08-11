@@ -1,0 +1,36 @@
+.container {
+  margin: 20px;
+}
+.inputs {
+  display: flex;
+  align-items: center;
+}
+.passwordInput {
+  width: 180px;
+  height: 30px;
+  font-size: 24px;
+  padding-left: 10px;
+}
+.add {
+  width: 60px;
+  height: 30px;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: blue;
+  color: white;
+  border: none;
+}
+.back {
+  width: 70px;
+  height: 30px;
+  font-size: 16px;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
